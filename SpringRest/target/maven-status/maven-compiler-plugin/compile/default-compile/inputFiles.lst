@@ -1,0 +1,9 @@
+/home/natsu/IdeaProjects/SpringRest/src/main/java/org/example/exception/StarNotFoundException.java
+/home/natsu/IdeaProjects/SpringRest/src/main/java/org/example/entity/Star.java
+/home/natsu/IdeaProjects/SpringRest/src/main/java/org/example/config/AppConfig.java
+/home/natsu/IdeaProjects/SpringRest/src/main/java/org/example/dto/ErrorResponse.java
+/home/natsu/IdeaProjects/SpringRest/src/main/java/org/example/App.java
+/home/natsu/IdeaProjects/SpringRest/src/main/java/org/example/controller/StarExceptionAdvice.java
+/home/natsu/IdeaProjects/SpringRest/src/main/java/org/example/controller/MyController.java
+/home/natsu/IdeaProjects/SpringRest/src/main/java/org/example/dao/StarDao.java
+/home/natsu/IdeaProjects/SpringRest/src/main/java/org/example/config/AppDispatchServletInitializer.java

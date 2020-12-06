@@ -1,0 +1,9 @@
+org/example/dao/StarDao.class
+org/example/config/AppConfig.class
+org/example/controller/MyController.class
+org/example/entity/Star.class
+org/example/App.class
+org/example/config/AppDispatchServletInitializer.class
+org/example/dto/ErrorResponse.class
+org/example/exception/StarNotFoundException.class
+org/example/controller/StarExceptionAdvice.class

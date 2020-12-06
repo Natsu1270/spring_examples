@@ -1,0 +1,6 @@
+org/example/config/AppConfig.class
+org/example/config/DispatchServletInitializer.class
+org/example/config/SecurityWebApplicationInitializer.class
+org/example/controller/DemoController.class
+org/example/config/SecurityConfig.class
+org/example/App.class
